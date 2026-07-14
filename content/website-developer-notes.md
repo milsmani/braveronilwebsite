@@ -53,6 +53,10 @@
   > **Headline:** "Built on a Proven Commitment to Children with DIPG"
   > **Sub:** "Before founding the Brave Ronil Foundation, Manisha and Milan Mehta spent years helping fund pediatric brain cancer research, support affected families, and raise awareness. That experience is the foundation we carry forward."
 - **Going forward:** BRF's *own* future impact can be shown separately and clearly labeled as BRF's (e.g., "What we're working toward" / "Our first initiatives"), kept distinct from the legacy/co-founder achievements.
+- **Specific edits requested on the Impact page:**
+  - **Research grants → future tense.** Present research grants as something BRF **will** do going forward ("we will fund research grants to…"), NOT as past grants already awarded. Do not list the old foundation's funded grants as BRF accomplishments.
+  - **Remove BrainStorm Summit references** — delete "BrainStorm Summit 2022" and "BrainStorm Summit 2023" entirely.
+  - **Remove events and gatherings** from the Impact page. *(Interpreting "fathering" as "gatherings" — confirm if different.)*
 - **Note:** Final wording is the owner's call; drafts above are starting points.
 
 ---

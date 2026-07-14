@@ -59,6 +59,10 @@
   - **Remove events and gatherings** from the Impact page. *(Interpreting "fathering" as "gatherings" — confirm if different.)*
 - **Note:** Final wording is the owner's call; drafts above are starting points.
 
+### 6. Family Support page — remove "Expert Guidance"
+- **Page:** Family Support
+- **Remove:** the **"Expert Guidance"** section.
+
 ---
 
 ## Completed

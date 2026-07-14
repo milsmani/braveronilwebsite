@@ -42,6 +42,19 @@
   - ❌ **Board Members / Board of Directors**
 - **Note:** Only listing what to remove — leave the remaining sections as they are.
 
+### 5. Impact page — attribute all impact to the co-founders' prior work, not to BRF
+- **Page:** Impact
+- **Problem:** The Impact page currently presents families supported, research funded, and community/awareness events as if they are **Brave Ronil Foundation's** accomplishments. They are **not**. The Brave Ronil Foundation is a **new, independent organization** and has not yet done these things. This work was achieved by BRF's **co-founders, Manisha and Milan Mehta, during their tenure with the former Neev Kolte & Brave Ronil Foundation.**
+- **Why this matters (compliance):** Per the foundation transition agreement, BRF must **not** claim these accomplishments as its own and must **not** imply affiliation with the former foundation. The co-founders **may** reference impact they personally helped achieve during their tenure (research funded, families supported, legislation, awareness) — but it must be framed as **their prior/legacy work**, not BRF's record.
+- **Required change:** Reframe the entire Impact page so every accomplishment is clearly attributed to the co-founders' prior work with the former foundation. Use **past tense**, name the **former** foundation (or "in their prior roles"), and never say "BRF funded / BRF supported / we funded" for work done before BRF existed.
+- **Add a short attribution line at the top of the page**, e.g.:
+  > *"The impact below reflects the work our co-founders, Manisha and Milan Mehta, helped achieve during their tenure with the former Neev Kolte & Brave Ronil Foundation. The Brave Ronil Foundation is a new, independent organization and does not claim these accomplishments as its own — we share them to show the experience and commitment we build on."*
+- **Suggested hero rewrite** (the current *"Advancing Hope Through Action and Research / Through research funding, awareness events, and community support, we're helping bring hope…"* implies BRF did the work):
+  > **Headline:** "Built on a Proven Commitment to Children with DIPG"
+  > **Sub:** "Before founding the Brave Ronil Foundation, Manisha and Milan Mehta spent years helping fund pediatric brain cancer research, support affected families, and raise awareness. That experience is the foundation we carry forward."
+- **Going forward:** BRF's *own* future impact can be shown separately and clearly labeled as BRF's (e.g., "What we're working toward" / "Our first initiatives"), kept distinct from the legacy/co-founder achievements.
+- **Note:** Final wording is the owner's call; drafts above are starting points.
+
 ---
 
 ## Completed

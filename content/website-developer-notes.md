@@ -34,18 +34,13 @@
 - **Why:** A mission statement should state who we serve, what we do, and why (see brief §3 / §5). The legacy version (in `legacy-site-content.md`) covers the right substance but is the old org's phrasing; BRF needs its own voice. The draft keeps the same commitments (research, advocacy, awareness, family/care access) and ties to the BRF tagline theme ("hope where today there is none").
 - **Note:** Final wording is the owner's call — this is a starting point, not locked copy.
 
-### 4. About Us page — defined sections (include these, exclude the rest)
+### 4. About Us page — remove these sections
 - **Page:** About Us
-- **Include ONLY these sections, in this order:**
-  1. **About the Foundation** — who we are, why we exist, how we started, and what drives us (the full version of the landing page's brief intro; per brief §3).
-  2. **Legacy / Meet Ronil** — Ronil's full story: his personality, his battle, and his legacy (per brief §4, "About Us > Meet Ronil"). Source content in `legacy-site-content.md`.
-  3. **Mission statement** — the BRF-specific mission (see item 3 above).
-- **Do NOT include on About Us:**
+- **Remove from the About Us page:**
   - ❌ **Events**
   - ❌ **Our Impact**
   - ❌ **Board Members / Board of Directors**
-- **Why:** Owner scoped the About Us page to foundation story + Ronil's legacy + mission only. Impact, Events, and Board live elsewhere (or not at launch), not on this page.
-- **Note:** "Legacy" is interpreted as Ronil's story/legacy ("Meet Ronil"); confirm if a broader "legacy" framing is intended.
+- **Note:** Only listing what to remove — leave the remaining sections as they are.
 
 ---
 

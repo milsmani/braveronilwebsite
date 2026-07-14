@@ -25,6 +25,15 @@
 - **Change:** **Remove the Events section from the landing page** for the initial launch.
 - **Why:** Brief states Events are *"will be added later, not needed for initial launch."* (The current cards are also duplicate placeholders.) Events can return as its own page/section post-launch.
 
+### 3. About Us — use a real mission statement (adapted for BRF, not the old org's)
+- **Page:** About Us
+- **What it is now:** The mission slot reads as an emotional beat ("Turning Grief Into Purpose" + CEO quote) rather than an actual mission statement.
+- **Change:** Put a proper mission statement in that section. **Do not copy the legacy statement verbatim** — that wording belongs to the *old joint organization* (Neev Kolte & Brave Ronil Foundation). Reword it so it's distinct and specific to the **Brave Ronil Foundation**.
+- **Suggested BRF draft (for owner review/approval):**
+  > *"The Brave Ronil Foundation supports children and families facing DIPG/DMG pediatric brain cancer. We fund cutting-edge research and clinical trials, advocate for pediatric cancer at every level of government, raise awareness in our communities, and help families access the care and support they need — so future families have hope where today there is none."*
+- **Why:** A mission statement should state who we serve, what we do, and why (see brief §3 / §5). The legacy version (in `legacy-site-content.md`) covers the right substance but is the old org's phrasing; BRF needs its own voice. The draft keeps the same commitments (research, advocacy, awareness, family/care access) and ties to the BRF tagline theme ("hope where today there is none").
+- **Note:** Final wording is the owner's call — this is a starting point, not locked copy.
+
 ---
 
 ## Completed

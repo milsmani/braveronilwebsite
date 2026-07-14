@@ -63,6 +63,36 @@
 - **Page:** Family Support
 - **Remove:** the **"Expert Guidance"** section.
 
+### 7. Hero — use the canonical tagline
+- **Page:** Landing / Home (hero)
+- **Problem:** The finalized tagline is not on the site. The hero reads "Bringing hope to children fighting DIPG" with a subhead about "research, advocacy, and care."
+- **Change:** Use the canonical tagline **"Fund Research. Support Families. Fight Brain Cancer."** in the hero.
+
+### 8. Remove all "advocacy" / "lobbying" / "policy" language sitewide
+- **Pages:** all (spotted in the hero subhead and the Awareness card)
+- **Problem:** Advocacy/lobbying language is back — e.g., hero subhead "research, advocacy, and care" and the awareness card "Support research and policy advocacy." Advocacy/lobbying was **deliberately removed** from all BRF materials.
+- **Change:** Remove "advocacy," "lobbying," and "policy advocacy" everywhere. Reframe those pillars around **research funding, family support, and awareness** (canonical wording — confirm exact phrasing with owner; the mission cards currently say "Research Funding / Family Support / Raising Awareness," which is close but confirm).
+
+### 9. Fix Milan's title — President & Co-Founder (not CEO)
+- **Pages:** anywhere Milan appears (e.g., the homepage pull-quote "Milan Mehta, CEO")
+- **Change:** Change "CEO" to **"President & Co-Founder"** wherever Milan is credited.
+- **Note:** Legacy NKBR content lists him as "CEO" — that's the old role; BRF title is President & Co-Founder.
+
+### 10. "$100,000 in Research Grants" stat — remove or reframe (legacy-framing rule)
+- **Page:** Home / Impact (stat tied to a DDRFA funding-partner logo)
+- **Problem:** If "$100,000 in Research Grants" is presented as a **BRF** achievement, it violates the legacy rule — BRF is brand new; the $300K+ track record belongs to the **founding team / NKBR era**, not BRF.
+- **Change:** Do **not** present this as BRF's achievement. Either remove it, or reframe it as the co-founders' prior work with the former foundation (see item 5). Confirm what the $100K figure actually represents before launch.
+
+### 11. Events — replace placeholders with real events (Blackhawk gala headlines)
+- **Pages:** Events section/page (and per item 2, keep Events **off** the landing page at launch)
+- **Problem:** Events are all placeholder — four identical "Community Fundraiser / Support Session, Pleasanton, CA" cards reusing the "Every two minutes…" line.
+- **Change:** Replace with **real events**; the **Nov 21 Blackhawk gala** should headline.
+
+### 12. Technical launch-blockers
+- **Page:** site-wide (head/meta)
+- **A — noindex/nofollow:** The page is set to `noindex, nofollow` (fine for staging). **Must be removed at launch** so search engines can index the site.
+- **B — Broken og:image:** The Open Graph image points to a broken local dev URL (`brave-ronil.local/...burst.svg`). **Fix to a real hosted image** or social shares won't render a preview.
+
 ---
 
 ## Completed
